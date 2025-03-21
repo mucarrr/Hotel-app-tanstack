@@ -16,9 +16,21 @@ Form state control
 Schema-based validation
 
 # 💡Basic Tech Stack:
+Vite for fast bundling
+
 React with TypeScript
+
+Axios for HTTP requests
+
+Redux Toolkit
+
+React Router DOM
+
 TanStack Query
+
 Formik & Yup
+
+Tailwind CSS
 
 Note: While Formik and Yup make form validations much more manageable, TanStack Query's caching and optimistic updates significantly improve the user experience.
 
