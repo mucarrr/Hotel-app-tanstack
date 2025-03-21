@@ -23,4 +23,4 @@ Formik & Yup
 Note: While Formik and Yup make form validations much more manageable, TanStack Query's caching and optimistic updates significantly improve the user experience.
 
 # Preview of the Project
-![](hotels.gif)
+![](hotel.gif)
